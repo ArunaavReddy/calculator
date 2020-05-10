@@ -1,4 +1,4 @@
-package com.calculator.calculator;
+package com.calculator;
 
 import java.util.*;
 
